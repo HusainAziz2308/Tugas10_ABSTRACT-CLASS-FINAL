@@ -1,4 +1,4 @@
-# Tugas10_Interface
+# Tugas 10 - Interface
 ## Identitas
 - Nama  : Husain Aziz Al Rosyid
 - NIM   : 4124031
